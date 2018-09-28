@@ -6,3 +6,5 @@ także: [Bień, Janusz S. (2013) Dygitalizacja kartotek słownikowych. Prace Fil
 
 Repozytorium zawiera również program i pliki wykorzystywane do
 przygotowania danych dla programu maleks.
+
+Program jest dostępny na licencji GPL.
