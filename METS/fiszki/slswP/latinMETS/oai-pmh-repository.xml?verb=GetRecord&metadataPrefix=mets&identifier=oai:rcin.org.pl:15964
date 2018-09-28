@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="http://www.rcin.org.pl/style/common/xsl/oai-style.xsl"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" 
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+         http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+	<responseDate>2013-01-18T06:55:23Z</responseDate>
+	<request identifier="oai:rcin.org.pl:15964" metadataPrefix="mets" verb="GetRecord">
+	http://rcin.org.pl/oai-pmh-repository.xml</request>
+	<GetRecord>
+	
+  <record>
+	<header>
+		<identifier>oai:rcin.org.pl:15964</identifier>
+	    <datestamp>2013-01-10T13:20:46Z</datestamp>
+		  <setSpec>rcin.org.pl:ijpol:fildsofscience:humanities</setSpec> 	      <setSpec>rcin.org.pl:ijpol:fildsofscience</setSpec> 	      <setSpec>rcin.org.pl:ijpol:fildsofscience:humanities:linguistics:hopl</setSpec> 	      <setSpec>rcin.org.pl:culturalharit</setSpec> 	      <setSpec>rcin.org.pl:ijpol:files</setSpec> 	      <setSpec>rcin.org.pl</setSpec> 	      <setSpec>rcin.org.pl:ijpol:fildsofscience:humanities:linguistics</setSpec> 	      <setSpec>rcin.org.pl:ijpol:fildsofscience:humanities:linguistics:ropwl</setSpec> 	      <setSpec>rcin.org.pl:ijpol</setSpec> 	      <setSpec>rcin.org.pl:ijpol:fildsofscience:humanities:linguistics:l</setSpec> 	    </header>
+		<metadata>
+	<mets LABEL="la - laetabundus" xmlns="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd">
+ <dmdSec ID="dmd0">
+  <mdWrap MIMETYPE="text/xml" MDTYPE="OTHER" OTHERMDTYPE="dlibra_avs" LABEL="Local Metadata">
+   <xmlData><dlibra_avs:metadataDescription xmlns:dlibra_avs="http://rcin.org.pl/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://rcin.org.pl/ http://rcin.org.pl/dlibra/attribute-schema.xsd">
+<dlibra_avs:DC>
+<dlibra_avs:Title>
+<value xml:lang="pl"><![CDATA[Kartoteka Słownika Łaciny Średniowiecznej; la - laetabundus]]></value>
+<value xml:lang="en"><![CDATA[Kartoteka Słownika Łaciny Średniowiecznej; la - laetabundus]]></value>
+</dlibra_avs:Title>
+<dlibra_avs:Contributor xml:lang="pl"><![CDATA[Jadwiga Lityńska]]></dlibra_avs:Contributor>
+<dlibra_avs:Contributor xml:lang="pl"><![CDATA[Jan Pelczar]]></dlibra_avs:Contributor>
+<dlibra_avs:Contributor xml:lang="pl"><![CDATA[Jerzy Krókowski]]></dlibra_avs:Contributor>
+<dlibra_avs:Contributor xml:lang="pl"><![CDATA[Józef Tara]]></dlibra_avs:Contributor>
+<dlibra_avs:Contributor xml:lang="en"><![CDATA[Jadwiga Lityńska]]></dlibra_avs:Contributor>
+<dlibra_avs:Contributor xml:lang="en"><![CDATA[Jan Pelczar]]></dlibra_avs:Contributor>
+<dlibra_avs:Contributor xml:lang="en"><![CDATA[Jerzy Krókowski]]></dlibra_avs:Contributor>
+<dlibra_avs:Contributor xml:lang="en"><![CDATA[Józef Tara]]></dlibra_avs:Contributor>
+<dlibra_avs:Publisher/>
+<dlibra_avs:Description xml:lang="pl"><![CDATA[Tworzenie Kartoteki rozpoczęto w 1924 r., prace ekscerpcyjne trwają po dzień dzisiejszy.]]></dlibra_avs:Description>
+<dlibra_avs:Subject/>
+<dlibra_avs:Type xml:lang="pl"><![CDATA[Kartoteka]]></dlibra_avs:Type>
+<dlibra_avs:Type xml:lang="en"><![CDATA[Kartoteka]]></dlibra_avs:Type>
+<dlibra_avs:Format><![CDATA[image/x.djvu]]></dlibra_avs:Format>
+<dlibra_avs:Rights>
+<value xml:lang="pl"><![CDATA[Prawa zastrzeżone - dostęp nieograniczony]]></value>
+<value xml:lang="en"><![CDATA[Rights Reserved - Free Access]]></value>
+<dlibra_avs:rightshold xml:lang="pl"><![CDATA[Patrz: Twórcy i Wydawcy]]></dlibra_avs:rightshold>
+<dlibra_avs:rightshold xml:lang="en"><![CDATA[See: Creators and Publishers]]></dlibra_avs:rightshold>
+<dlibra_avs:license xml:lang="pl"><![CDATA[Licencja Instytutu Języka Polskiego PAN]]></dlibra_avs:license>
+<dlibra_avs:license xml:lang="en"><![CDATA[License of the Institute of Polish Language of the Polish Academy of Sciences]]></dlibra_avs:license>
+<dlibra_avs:accrights xml:lang="pl"><![CDATA[Publikacja dostępna dla wszystkich na własny użytek, do celów naukowych, edukacyjnych lub dydaktycznych]]></dlibra_avs:accrights>
+<dlibra_avs:accrights xml:lang="en"><![CDATA[Publication accessible to all for their own use, for scientific, educational or teaching purposes]]></dlibra_avs:accrights>
+</dlibra_avs:Rights>
+<dlibra_avs:digital xml:lang="pl"><![CDATA[Instytut Języka Polskiego Polskiej Akademii Nauk]]></dlibra_avs:digital>
+<dlibra_avs:digital xml:lang="en"><![CDATA[Institute of Polish Language of the Polish Academy of Sciences]]></dlibra_avs:digital>
+<dlibra_avs:original xml:lang="pl"><![CDATA[Biblioteka Instytutu Języka Polskiego PAN]]></dlibra_avs:original>
+<dlibra_avs:original xml:lang="en"><![CDATA[Library of the Institute of Polish Language PAS]]></dlibra_avs:original>
+<dlibra_avs:sponsor xml:lang="pl"><![CDATA[Program Operacyjny Innowacyjna Gospodarka, lata 2010-2014, Priorytet 2. Infrastruktura strefy B + R]]></dlibra_avs:sponsor>
+<dlibra_avs:sponsor xml:lang="pl"><![CDATA[Unia Europejska. Europejski Fundusz Rozwoju Regionalnego]]></dlibra_avs:sponsor>
+<dlibra_avs:sponsor xml:lang="en"><![CDATA[European Union. European Regional Development Fund]]></dlibra_avs:sponsor>
+<dlibra_avs:sponsor xml:lang="en"><![CDATA[Programme Innovative Economy, 2010-2014, Priority Axis 2. R&D infrastructure]]></dlibra_avs:sponsor>
+</dlibra_avs:DC>
+</dlibra_avs:metadataDescription>
+</xmlData>
+  </mdWrap>
+ </dmdSec>
+ <dmdSec ID="dmd1">
+  <mdWrap MIMETYPE="text/xml" MDTYPE="DC" LABEL="Dublin Core Metadata">
+   <xmlData><dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dc:title xml:lang="pl"><![CDATA[Kartoteka Słownika Łaciny Średniowiecznej; la - laetabundus]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Kartoteka Słownika Łaciny Średniowiecznej; la - laetabundus]]></dc:title>
+<dc:description xml:lang="pl"><![CDATA[Tworzenie Kartoteki rozpoczęto w 1924 r., prace ekscerpcyjne trwają po dzień dzisiejszy.]]></dc:description>
+<dc:contributor xml:lang="pl"><![CDATA[Jan Pelczar]]></dc:contributor>
+<dc:contributor xml:lang="pl"><![CDATA[Jerzy Krókowski]]></dc:contributor>
+<dc:contributor xml:lang="pl"><![CDATA[Jadwiga Lityńska]]></dc:contributor>
+<dc:contributor xml:lang="pl"><![CDATA[Józef Tara]]></dc:contributor>
+<dc:contributor xml:lang="en"><![CDATA[Jerzy Krókowski]]></dc:contributor>
+<dc:contributor xml:lang="en"><![CDATA[Jadwiga Lityńska]]></dc:contributor>
+<dc:contributor xml:lang="en"><![CDATA[Jan Pelczar]]></dc:contributor>
+<dc:contributor xml:lang="en"><![CDATA[Józef Tara]]></dc:contributor>
+<dc:type xml:lang="pl"><![CDATA[Kartoteka]]></dc:type>
+<dc:type xml:lang="en"><![CDATA[Kartoteka]]></dc:type>
+<dc:format xml:lang="pl"><![CDATA[image/x.djvu]]></dc:format>
+<dc:format xml:lang="en"><![CDATA[image/x.djvu]]></dc:format>
+<dc:identifier><![CDATA[http://rcin.org.pl/Content/15964]]></dc:identifier>
+<dc:rights xml:lang="pl"><![CDATA[Prawa zastrzeżone - dostęp nieograniczony]]></dc:rights>
+<dc:rights xml:lang="en"><![CDATA[Rights Reserved - Free Access]]></dc:rights>
+</dc:dc>
+</xmlData>
+  </mdWrap>
+ </dmdSec>
+ <fileSec>
+  <fileGrp USE="original">
+   <file ID="original0" MIMETYPE="image/x.djvu">
+    <FLocat LOCTYPE="URL" xlink:type="simple" xlink:href="http://rcin.org.pl/Content/15964/KRIJP_32940_02092141_la-laetabundus.djvu"/>
+   </file>
+  </fileGrp>
+ </fileSec>
+ <structMap TYPE="PHYSICAL">
+  <div ID="physicalStructure" DMDID="dmd0 dmd1" TYPE="files">
+   <div ID="phys0" TYPE="file">
+    <fptr FILEID="original0"/>
+   </div>
+  </div>
+ </structMap>
+</mets>
+
+</metadata>
+	  </record>	</GetRecord>
+</OAI-PMH>
+	
