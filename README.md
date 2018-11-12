@@ -6,7 +6,12 @@ także: [Bień, Janusz S. (2013) Dygitalizacja kartotek słownikowych. Prace Fil
 
 W repozytorium są dostępne:
 
-* Indeks do fiszek *Słownika języka polskiego XVII i pierwszej połowy XVIII wieku* (RCIN-fiszki-Sjp17w.csv)
+* Indeks do fiszek *Słownika języka polskiego XVII i pierwszej połowy
+XVIII wieku* (RCIN-fiszki-Sjp17w.csv) 
+** Według prezentacji z
+9.11.2018 r. redakcja słownika dysponuje obecnie pełnym indeksem do
+kartoteki, nie wiadomo jednak, w jakiej formie, i czy jest dostępny
+poza redakcją.
 * Indeks do fiszek *Słownika łaciny średniowiecznej w Polsce* (RCIN-fiszki-SłśwP.csv)
 * Przykład wspólnego indeksu do kilku różnych zasobów (epocha.csv)
 
