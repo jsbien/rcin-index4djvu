@@ -10,7 +10,7 @@ W repozytorium są dostępne:
 XVIII wieku* (RCIN-fiszki-Sjp17w.csv) 
 
     * Według prezentacji z
-9.11.2018 r. (https://www.youtube.com/watch?v=yWa4O7YZPYU) redakcja słownika dysponuje obecnie pełnym indeksem do
+9.11.2018 r. (https://youtu.be/yWa4O7YZPYU?t=772) redakcja słownika dysponuje obecnie pełnym indeksem do
 kartoteki, nie wiadomo jednak, w jakiej formie, i czy jest dostępny
 poza redakcją.
 
