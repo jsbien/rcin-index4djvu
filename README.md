@@ -21,3 +21,5 @@ Repozytorium zawiera również program i pliki wykorzystywane do
 przygotowania danych dla programu maleks.
 
 Program jest dostępny na licencji GPL.
+
+Wcześniej repozytorium znajdowalo się pod adresem https://bitbucket.org/jsbien/rcin-index4djvu.
